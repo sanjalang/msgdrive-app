@@ -1,0 +1,19 @@
+{
+  "me": {
+    "name": "我",
+    "avatar": "files/12/1216b75bed18a78320f37c1631fdd17a8e1ab3e5e69404e40e1047b2e8aabc82.png"
+  },
+  "dc-u-444444444444444444": {
+    "name": "小明",
+    "avatar": "files/46/46567b4c20e3f712fdb84c74b6321e352365064caa8bac7d21f3182f6d18d168.png"
+  },
+  "dc-u-666666666666666666": {
+    "name": "路人",
+    "avatar": null
+  },
+  "dc-u-999999999999999991": {
+    "name": "小幫手",
+    "avatar": null,
+    "bot": true
+  }
+}

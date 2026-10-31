@@ -1,0 +1,186 @@
+{
+  "servers": [
+    {
+      "id": "srv-demo",
+      "name": "MsgDrive 示範",
+      "icon": null,
+      "position": 0
+    },
+    {
+      "id": "srv-dc-111111111111111111",
+      "name": "測試伺服器甲",
+      "icon": "files/6f/6f40ce4429fee3798487ec214e0e80e84b3a2d0f27ab46fbdc8eb2add35b2a4d.png",
+      "position": 1,
+      "source": {
+        "type": "discord",
+        "guildId": "111111111111111111",
+        "guildName": "測試伺服器甲"
+      }
+    },
+    {
+      "id": "srv-dc-777777777777777777",
+      "name": "測試伺服器乙",
+      "icon": null,
+      "position": 2,
+      "source": {
+        "type": "discord",
+        "guildId": "777777777777777777",
+        "guildName": "測試伺服器乙"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-dc-333333333333333333",
+      "serverId": "srv-dc-111111111111111111",
+      "name": "文字頻道",
+      "position": 0
+    },
+    {
+      "id": "cat-dc-343434343434343434",
+      "serverId": "srv-dc-777777777777777777",
+      "name": "閒聊",
+      "position": 0
+    }
+  ],
+  "channels": [
+    {
+      "id": "dc-222222222222222222",
+      "serverId": "srv-dc-111111111111111111",
+      "name": "一般",
+      "categoryId": "cat-dc-333333333333333333",
+      "kind": "text",
+      "parentId": null,
+      "topic": "虛構的一般頻道",
+      "position": 0,
+      "createdAt": "2016-09-05T05:11:46.467Z",
+      "archived": false,
+      "source": {
+        "type": "discord",
+        "guildId": "111111111111111111",
+        "guildName": "測試伺服器甲",
+        "channelId": "222222222222222222"
+      }
+    },
+    {
+      "id": "dc-999999999999999999",
+      "serverId": "srv-dc-111111111111111111",
+      "name": "公告",
+      "categoryId": null,
+      "kind": "text",
+      "parentId": null,
+      "topic": null,
+      "position": 1,
+      "createdAt": "2022-07-22T11:22:59.101Z",
+      "archived": false,
+      "source": {
+        "type": "discord",
+        "guildId": "111111111111111111",
+        "guildName": "測試伺服器甲",
+        "channelId": "999999999999999999"
+      }
+    },
+    {
+      "id": "dc-888888888888888888",
+      "serverId": "srv-dc-111111111111111111",
+      "name": "虛構討論串",
+      "categoryId": "cat-dc-333333333333333333",
+      "kind": "thread",
+      "parentId": "dc-222222222222222222",
+      "topic": null,
+      "position": 2,
+      "createdAt": "2021-09-18T20:47:05.868Z",
+      "archived": false,
+      "source": {
+        "type": "discord",
+        "guildId": "111111111111111111",
+        "guildName": "測試伺服器甲",
+        "channelId": "888888888888888888"
+      }
+    },
+    {
+      "id": "dc-900000000000000001",
+      "serverId": "srv-dc-111111111111111111",
+      "name": "長對話",
+      "categoryId": "cat-dc-333333333333333333",
+      "kind": "text",
+      "parentId": null,
+      "topic": "跨多個月份的虛構對話,用來測試往上捲動載入舊月份",
+      "position": 3,
+      "createdAt": "2021-10-19T12:38:41.191Z",
+      "archived": false,
+      "source": {
+        "type": "discord",
+        "guildId": "111111111111111111",
+        "guildName": "測試伺服器甲",
+        "channelId": "900000000000000001"
+      }
+    },
+    {
+      "id": "dc-121212121212121212",
+      "serverId": "srv-dc-777777777777777777",
+      "name": "雜談",
+      "categoryId": "cat-dc-343434343434343434",
+      "kind": "text",
+      "parentId": null,
+      "topic": "輕鬆聊",
+      "position": 0,
+      "createdAt": "2015-12-01T11:33:41.709Z",
+      "archived": false,
+      "source": {
+        "type": "discord",
+        "guildId": "777777777777777777",
+        "guildName": "測試伺服器乙",
+        "channelId": "121212121212121212"
+      }
+    },
+    {
+      "id": "dc-565656565656565656",
+      "serverId": "srv-dc-777777777777777777",
+      "name": "隨筆",
+      "categoryId": null,
+      "kind": "text",
+      "parentId": null,
+      "topic": null,
+      "position": 1,
+      "createdAt": "2019-04-10T21:57:14.643Z",
+      "archived": false,
+      "source": {
+        "type": "discord",
+        "guildId": "777777777777777777",
+        "guildName": "測試伺服器乙",
+        "channelId": "565656565656565656"
+      }
+    },
+    {
+      "id": "dc-787878787878787878",
+      "serverId": "srv-dc-777777777777777777",
+      "name": "孤兒討論串",
+      "categoryId": null,
+      "kind": "text",
+      "parentId": null,
+      "topic": null,
+      "position": 2,
+      "createdAt": "2020-12-14T03:09:01.110Z",
+      "archived": false,
+      "source": {
+        "type": "discord",
+        "guildId": "777777777777777777",
+        "guildName": "測試伺服器乙",
+        "channelId": "787878787878787878"
+      }
+    },
+    {
+      "id": "ch-demo-files",
+      "serverId": "srv-demo",
+      "name": "示範檔案",
+      "categoryId": null,
+      "kind": "text",
+      "parentId": null,
+      "topic": null,
+      "position": 0,
+      "createdAt": "2026-10-30T00:00:00.000Z",
+      "archived": false
+    }
+  ]
+}

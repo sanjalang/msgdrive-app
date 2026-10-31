@@ -1,0 +1,132 @@
+{
+  "files": [
+    {
+      "path": "authors.json",
+      "size": 457
+    },
+    {
+      "path": "channels.json",
+      "size": 4996
+    },
+    {
+      "path": "channels/ch-demo-files/messages/2026-10.jsonl",
+      "size": 3036
+    },
+    {
+      "path": "channels/dc-121212121212121212/messages/2026-11.jsonl",
+      "size": 281
+    },
+    {
+      "path": "channels/dc-222222222222222222/messages/2026-10.jsonl",
+      "size": 3258
+    },
+    {
+      "path": "channels/dc-222222222222222222/pins.json",
+      "size": 115
+    },
+    {
+      "path": "channels/dc-565656565656565656/messages/2026-11.jsonl",
+      "size": 133
+    },
+    {
+      "path": "channels/dc-787878787878787878/messages/2026-11.jsonl",
+      "size": 163
+    },
+    {
+      "path": "channels/dc-888888888888888888/messages/2026-10.jsonl",
+      "size": 319
+    },
+    {
+      "path": "channels/dc-900000000000000001/messages/2026-07.jsonl",
+      "size": 4233
+    },
+    {
+      "path": "channels/dc-900000000000000001/messages/2026-08.jsonl",
+      "size": 7510
+    },
+    {
+      "path": "channels/dc-900000000000000001/messages/2026-09.jsonl",
+      "size": 9008
+    },
+    {
+      "path": "channels/dc-900000000000000001/messages/2026-10.jsonl",
+      "size": 9874
+    },
+    {
+      "path": "channels/dc-900000000000000001/pins.json",
+      "size": 273
+    },
+    {
+      "path": "channels/dc-999999999999999999/messages/2026-10.jsonl",
+      "size": 154
+    },
+    {
+      "path": "files/09/09126f615f3fde932114180347d2cd7ea3cc7103fa86b07f784a0ed628c15628.txt",
+      "size": 407
+    },
+    {
+      "path": "files/12/1216b75bed18a78320f37c1631fdd17a8e1ab3e5e69404e40e1047b2e8aabc82.png",
+      "size": 91
+    },
+    {
+      "path": "files/35/357b55d0ba993e99bc377dc618f98ee203b2fa4a8adebeca2b97e3d25a49483b.png",
+      "size": 87
+    },
+    {
+      "path": "files/46/46567b4c20e3f712fdb84c74b6321e352365064caa8bac7d21f3182f6d18d168.png",
+      "size": 95
+    },
+    {
+      "path": "files/47/47f7c092b00dadde4fd2d0f262823ad1211b36336f8cde51d218133883bb4e7a.wav",
+      "size": 24044
+    },
+    {
+      "path": "files/4f/4fa093c39bb15a0477fe496ccfad4b8ed2d4b58ff4cefeae441246cf320b80d9.py",
+      "size": 340
+    },
+    {
+      "path": "files/6f/6f40ce4429fee3798487ec214e0e80e84b3a2d0f27ab46fbdc8eb2add35b2a4d.png",
+      "size": 90
+    },
+    {
+      "path": "files/79/79f7a2f2dd81b306fa850f6307dca7c023182d8ba7917474c3c9a730197202e0.png",
+      "size": 85
+    },
+    {
+      "path": "files/80/8053bcb6d0ebd86ff425db8633b35d14634a49c60046ea50321de5da69953521.txt",
+      "size": 22
+    },
+    {
+      "path": "files/81/815201817ea63145e2d48edb5abc4a9fcb47f6a40c189ebe815f716c3bf0f2e8.md",
+      "size": 255
+    },
+    {
+      "path": "files/ad/adabe9267824cfd525e42bf588a8dd64efa3951a09f4c1586dfc731e1a9f6f65.svg",
+      "size": 751
+    },
+    {
+      "path": "files/c0/c0e53e40c22d7c07ad97e684de431d415e041379affb44afb5ee7b847f0748c3.png",
+      "size": 85
+    },
+    {
+      "path": "files/e3/e3d88f1d6d7f67a1bdcb3013a507c8ebb0497cb4e0680a209893b1c16e87704f.pdf",
+      "size": 843
+    },
+    {
+      "path": "files/e5/e5df10117a61405601b988d3afb94be47abe206f0866e8ddd14198df2a6666a7.png",
+      "size": 1069
+    },
+    {
+      "path": "files/ef/efcb281823c6ce8b4cd4333b206c5c05ff91bc2b0c2da02339e0fd0ebc1cc274.png",
+      "size": 25484
+    },
+    {
+      "path": "files/fe/fec3d3f98ef682139fe8cddb66596a4d69d5479f3475b3eec0993e59d20f000b.ts",
+      "size": 436
+    },
+    {
+      "path": "msgdrive.json",
+      "size": 145
+    }
+  ]
+}

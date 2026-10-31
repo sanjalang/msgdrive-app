@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "MsgDrive",
+  "short_name": "MsgDrive",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#212328",
+  "theme_color": "#212328",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
