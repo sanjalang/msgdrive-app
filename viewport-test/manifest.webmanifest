@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "VP Test",
+  "short_name": "VP Test",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#212328",
+  "theme_color": "#212328",
+  "icons": [{ "src": "../apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }]
+}
